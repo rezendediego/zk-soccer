@@ -1,0 +1,17 @@
+{
+  "name": "zk-soccer",
+  "version": "1.0.0",
+  "description": "Zero Knowledge Blind Soccer Game",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "circom_tester": "^0.0.14",
+    "circomlib": "^2.0.4"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
